@@ -9,7 +9,10 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
-    "web-vitals": "^2.1.0"
+    "web-vitals": "^2.1.0",
+    "@apollo/client": "^3.5.10",
+    "apollo-server": "^3.6.7",
+    "graphql": "^16.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,12 +25,6 @@
       "react-app",
       "react-app/jest"
     ]
-  },
-  "homepage": "https://github.com/rogeralbinoi/guilda-frontend-graphql-example#readme",
-  "dependencies": {
-    "@apollo/client": "^3.5.10",
-    "apollo-server": "^3.6.7",
-    "graphql": "^16.3.0"
   },
   "browserslist": {
     "production": [
