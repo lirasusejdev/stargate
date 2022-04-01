@@ -23,6 +23,12 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://github.com/rogeralbinoi/guilda-frontend-graphql-example#readme",
+  "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "apollo-server": "^3.6.7",
+    "graphql": "^16.3.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
