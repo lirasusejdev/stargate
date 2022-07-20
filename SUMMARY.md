@@ -1,6 +1,6 @@
 # Table of contents
 
-* [stargate](README.md)
+* [🌊 stargate](README.md)
 * [Getting Started with Create React App](stargate/README.md)
 * [node\_modules](node\_modules/README.md)
   * [graphql-tag](node\_modules/graphql-tag/README.md)
