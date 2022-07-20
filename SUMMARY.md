@@ -30,5 +30,3 @@
     * [@wry/equality](node\_modules/@wry/equality/README.md)
   * [@wry](node\_modules/wry-2/README.md)
     * [@wry/trie](node\_modules/@wry/trie/README.md)
-* [Gsites](gsites/README.md)
-  * [Google Accounts](gsites/google-accounts.md)
